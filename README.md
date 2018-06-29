@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 29, 2018
 
 ### Student Name:  
-(First and Last Name)
+Joseph Rittenhouse
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To store values in an array in the form of a tax calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jmr16h.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. An iteration is a repitition of a looping statement.
+2. A global variable is one that is declared outside a function and is available to all parts of your program.
+3. Each piece of data contained in an array is called an element.
 
